@@ -1,13 +1,13 @@
 {
-  "name": "vue-tinymce",
+  "name": "@personal-lib/vue-tinymce",
   "version": "1.0.0",
-  "description": "tinymc插件",
+  "description": "tinymce插件",
   "author": "hehepeng <18846042826@163.com>",
   "private": false,
   "main": "dist/vue-tinymce.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/icebluesky2666/weibo-emoji"
+    "url": "https://github.com/library-components/vue-tinymce"
   },
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
